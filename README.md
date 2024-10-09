@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Full-Stack Nextjs & Supabase
+
+- 🔭 Building fast and optimized websites
+- 🌱 Currently learning PostgreSQL
+- ⚡ Most contributor to horego.com
+- 📫 How to reach me: ghozi.setiawan@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus08&layout=compact)
+
 <!--
 **agus08/agus08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
