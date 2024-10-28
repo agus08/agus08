@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Full-Stack Nextjs & Supabase
+I'm Full-Stack Javascript
 
 - 🔭 Building fast and optimized websites
 - 🌱 Currently learning PostgreSQL
