@@ -3,7 +3,7 @@
 I'm Full-Stack Javascript
 
 - 🔭 Building fast and optimized websites
-- 🌱 Currently learning PostgreSQL
+- 🌱 Currently learning Monorepo & Express
 - ⚡ Most contributor to horego.com
 - 📫 How to reach me: ghozi.setiawan@gmail.com
 
