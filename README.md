@@ -3,7 +3,7 @@
 I'm Full-Stack Javascript
 
 - 🔭 Building fast and optimized websites
-- 🌱 Currently learning Monorepo & Express
+- 🌱 Currently learning Pocketbase & Android Kotlin
 - ⚡ My salon management SaaS [glow.lewih.com](https://glow.lewih.com/)
 - 📫 How to reach me: ghozi.setiawan@gmail.com
 
