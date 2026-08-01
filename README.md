@@ -4,7 +4,7 @@ I'm Full-Stack Javascript
 
 - 🔭 Building fast and optimized websites
 - 🌱 Currently learning Monorepo & Express
-- ⚡ Most contributor to horego.com
+- ⚡ My salon management SaaS [glow.lewih.com](https://glow.lewih.com/)
 - 📫 How to reach me: ghozi.setiawan@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus08&layout=compact)
